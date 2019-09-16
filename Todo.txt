@@ -1,0 +1,5 @@
+party todo:
+- buy beer
+- buy wine 
+- buy sodas
+- buy parthat

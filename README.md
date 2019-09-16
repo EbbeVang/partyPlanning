@@ -1,2 +1,2 @@
 # partyPlanning
- a fake party to plan
+ a fake _party_ to plan
